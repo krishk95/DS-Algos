@@ -4,3 +4,4 @@
 ## Sortings
 - Heap Sort
 - Quick Sort
+- Merge Sort
